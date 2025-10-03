@@ -1,4 +1,4 @@
-package dev.lchang.appue.presentation.auth
+package dev.lchang.hnb.presentation.auth
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer

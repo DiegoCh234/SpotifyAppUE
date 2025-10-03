@@ -1,4 +1,4 @@
-package dev.lchang.appue
+package dev.lchang.hnb
 
 import org.junit.Test
 

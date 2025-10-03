@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "dev.lchang.appue"
+    namespace = "dev.lchang.hnb"
     compileSdk = 36
 
     defaultConfig {

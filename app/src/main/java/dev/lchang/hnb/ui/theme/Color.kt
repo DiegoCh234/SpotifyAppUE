@@ -1,4 +1,4 @@
-package dev.lchang.appue.ui.theme
+package dev.lchang.hnb.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

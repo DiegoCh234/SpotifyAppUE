@@ -1,4 +1,4 @@
-package dev.lchang.appue
+package dev.lchang.hnb
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
